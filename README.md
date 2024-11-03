@@ -17,7 +17,7 @@ Clone o repositório:
 
 bash
 Copiar código
-git clone https://github.com/seu_usuario/conta-bancaria.git
+git clone https://github.com/josewilson/conta-bancaria.git
 cd conta-bancaria
 Execute o script:
 
