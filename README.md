@@ -15,13 +15,13 @@ Este projeto não possui dependências externas. Tudo foi implementado utilizand
 Instalação
 Clone o repositório:
 
-bash
+
 Copiar código
-git clone https://github.com/josewilson/conta-bancaria.git
+git clone https://github.com/josewilson/ContaBancaria
 cd conta-bancaria
 Execute o script:
 
-bash
+
 Copiar código
 python conta_bancaria.py
 Uso
